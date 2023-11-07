@@ -1,15 +1,16 @@
 # Fokus
 Projeto Fokus pela Alura. Esté é um projeto de pomodoro com html, css e javascript. 
 Trabalho de estudo e aprendizado através do módulo atualizado "JavaScript: Manipulando elementos no DOM (Document Object Model)" na plataforma Alura.
+Continuando o estudo sobre js com o DOM, o módulo "JavaScript na Web: armazenando dados no navegador" continua aprimorando o o projeto fokus.
 
 ---
 
-# Intro
+# JavaScript: Manipulando elementos no DOM
 
 ### Módulo 1 - Iniciando o Projeto Fokus
 
  - **INTRODUÇÃO**
-	> Manipulando o arquivo HTML dentro da WEB utilizando developertools;
+  > Manipulando o arquivo HTML dentro da WEB utilizando developertools;
   > Configurando os elementos com DataAttributes  
 
 ### Módulo 2 - Manipulando Elementos da Página
@@ -35,3 +36,11 @@ Trabalho de estudo e aprendizado através do módulo atualizado "JavaScript: Man
 
 - **PRINTAMOS O TEMPO NA TELA**
   > Utilizamos esta aula para definirmos o tempo conforme click e necessidade do usuário
+
+---
+
+# JavaScript na Web: armazenando dados no navegador
+
+### Módulo 1 - Definindo as variáveis
+
+### Módulo 2 - Desenvolvendo o formulário
