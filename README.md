@@ -44,3 +44,9 @@ Continuando o estudo sobre js com o DOM, o módulo "JavaScript na Web: armazenan
 ### Módulo 1 - Definindo as variáveis
 
 ### Módulo 2 - Desenvolvendo o formulário
+
+### Módulo 3 - Interagindo com LocalStorage
+
+### Módulo 4 - Atualizando Tarefas
+
+### Módulo 5 - Removendo Tarefas
